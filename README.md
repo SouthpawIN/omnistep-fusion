@@ -88,3 +88,14 @@ omnistep-fusion/
 ## License
 
 Apache 2.0 (following parent model licenses)
+
+---
+
+## Related: the OmniSenter architecture
+
+OmniStep-Fusion is one of the pieces of the broader OmniSenter system. The full picture:
+- **OmniSenter** (main project): [evolutionary-training](https://github.com/SouthpawIN/evolutionary-training)
+- **Design post**: [OmniSenter: The Self-Evolving Multimodal Auxiliary for Hermes](https://github.com/SouthpawIN/evolutionary-training/blob/master/blog/omnisenter-self-evolving.md)
+- **Architecture wiki**: `~/wiki/concepts/omnisenter-architecture.md`
+- **Cosmos × ACE-Step × Nemotron ASR** master plan: `~/wiki/concepts/omnimodal-fusion-architecture.md`
+- **Sparse upcycle** (Stage 3 of the pipeline): [multimodal-expansion](https://github.com/SouthpawIN/multimodal-expansion)
